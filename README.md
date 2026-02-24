@@ -2,6 +2,16 @@
 
 PF Efficiency Index (PFEI) – a nonlinear metric for evaluating the structural efficiency and robustness of systematic trading and risk management systems, based on profit factor, trade win rate, tick win rate and loss structure.
 
+## Why PFEI?
+
+PFEI is designed to answer practical questions such as:
+
+- Is my current trading style structurally efficient, or does my profit factor mainly depend on luck and outliers?
+- How risky is it to push my profit factor higher by using more aggressive parameters?
+- Which combination of tick win rate, trade win rate, risk–reward ratio and loss-sequence length fits my personal risk tolerance?
+- How can I compare different trading systems (retail, discretionary or algorithmic) on a single structural quality scale?
+- How do my historical results look when they are mapped into zones like PERFECT, OPTIMAL or CATASTROPHIC – and which parameter sets make my risk measurably more efficient and sustainable over time?
+  
 ## Overview
 
 The PFEI measures how efficiently an observed profit factor (PF) is generated
