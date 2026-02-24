@@ -1,8 +1,6 @@
 # pfei-efficiency-index
 
-PF Efficiency Index (PFEI) – a nonlinear metric for evaluating the structural
-efficiency and robustness of trading systems based on profit factor, win rate
-and loss structure.
+PF Efficiency Index (PFEI) – a nonlinear metric for evaluating the structural efficiency and robustness of systematic trading and risk management systems, based on profit factor, trade win rate, tick win rate and loss structure.
 
 ## Overview
 
@@ -38,3 +36,5 @@ and Plotly installed to:
 ## License
 
 This project is licensed under the MIT License – see the `LICENSE` file.
+
+Keywords: trading, quantitative-finance, algorithmic-trading, performance-metric, profit-factor, expectancy, risk-management, prop-trading, FAIB, PF Efficiency Index, PFEI.
